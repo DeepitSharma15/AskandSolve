@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093999554693",
+    "project_id": "ask-and-solve",
+    "storage_bucket": "ask-and-solve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093999554693:android:2ed177fa63be35cf1df9ec",
+        "android_client_info": {
+          "package_name": "com.example.askandsolve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0W9Gw349pNwYpUA31LxHMqpoSdTESi_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
